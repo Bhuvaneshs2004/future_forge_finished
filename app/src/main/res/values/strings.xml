@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Future Forge</string>
+    <string name="app_tagline">FORGE YOUR OWN DESTINY.</string>
+    <string name="app_motto">LEARN. GROW. PREPARE. ACHIEVE.</string>
+    <string name="ai_placeholder_notice">Sample AI guidance active — live Gemini AI generation requires enabling Firebase AI Logic.</string>
+    <string name="salary_disclaimer">Estimated ranges from dated public/employer benchmarks; not a guaranteed offer.</string>
+    <string name="ai_guidance_disclaimer">AI evaluation provides educational guidance only and does not guarantee exam or job selection.</string>
+</resources>
